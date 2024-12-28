@@ -23,9 +23,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-28 05:03:49 +0000"
+    },
+    "done": false
+  },
   "cnc:whitetail_advancement": {
     "criteria": {
       "whitetail_advancement_0": "2024-12-28 04:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-28 05:03:49 +0000"
     },
     "done": true
   },

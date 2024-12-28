@@ -11,6 +11,18 @@
     },
     "done": false
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-28 05:03:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-28 05:03:59 +0000"
+    },
+    "done": false
+  },
   "cnc:whitetail_advancement": {
     "criteria": {
       "whitetail_advancement_0": "2024-12-28 04:41:28 +0000"
@@ -20,6 +32,12 @@
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-28 04:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2024-12-28 05:03:59 +0000"
     },
     "done": true
   },
