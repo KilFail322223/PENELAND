@@ -11,6 +11,12 @@
     },
     "done": false
   },
+  "cnc:whitetail_advancement": {
+    "criteria": {
+      "whitetail_advancement_0": "2024-12-28 04:41:28 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/christmas": {
     "criteria": {
       "coded_trigger": "2024-12-28 04:37:37 +0000"

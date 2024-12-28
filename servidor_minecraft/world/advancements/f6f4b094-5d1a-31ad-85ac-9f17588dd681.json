@@ -5,11 +5,89 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "incendium:technical/using/trailblazer": {
     "criteria": {
-      "requirement": "2024-12-28 04:43:28 +0000"
+      "log_spam_fixer": "2024-12-28 04:43:42 +0000"
     },
     "done": false
+  },
+  "incendium:technical/scroll_of_returning": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:43:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-28 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "cnc:whitetail_advancement": {
+    "criteria": {
+      "whitetail_advancement_0": "2024-12-28 04:47:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:sunflower_plains": "2024-12-28 04:43:42 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/using/ragnarok": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:43:42 +0000"
+    },
+    "done": false
+  },
+  "cnc:venomous_snakeadvancement": {
+    "criteria": {
+      "venomous_snakeadvancement_0": "2024-12-28 04:44:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/root": {
+    "criteria": {
+      "join": "2024-12-28 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:theundeadchallenges": {
+    "criteria": {
+      "theundeadchallenges_0": "2024-12-28 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/using/shield": {
+    "criteria": {
+      "log_spam_fixer": "2024-12-28 04:43:42 +0000"
+    },
+    "done": false
+  },
+  "cnc:cnc": {
+    "criteria": {
+      "cnc_0": "2024-12-28 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2024-12-28 04:43:42 +0000"
+    },
+    "done": true
+  },
+  "cnc:coyoteadvancement": {
+    "criteria": {
+      "coyoteadvancement_0": "2024-12-28 04:45:45 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/new_player": {
+    "criteria": {
+      "requirement": "2024-12-28 04:43:42 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

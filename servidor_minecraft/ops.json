@@ -4,5 +4,11 @@
     "name": "KilFail",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "f6f4b094-5d1a-31ad-85ac-9f17588dd681",
+    "name": "Luck_Volt",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
